@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+
+<form>
+    <input type="text" class="datepicker">
+    <label>
+        <input type="checkbox" class="filled-in" checked="checked" />
+        <span>Filled in</span>
+    </label>
+
+    <div class="switch">
+        <label>
+            Off
+            <input type="checkbox">
+            <span class="lever"></span>
+            On
+        </label>
+    </div>
+
+    <form action="#">
+        <p class="range-field">
+            <input type="range" id="test5" min="1000" max="100000" />
+        </p>
+    </form>
+
+</form>
+
+<!--JavaScript at end of body for optimized loading-->
+<script src="js/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('.datepicker').datepicker();
+    });
+
+</script>
+</body>
+</html>

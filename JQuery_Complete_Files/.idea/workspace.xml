@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee9757e-1b47-4fc5-a091-8d6c19ffe8a3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_JQuery_Basics/01_JQuery_Basics.html" />
+        <option value="$PROJECT_DIR$/02_JQuery_Selectors/02_JQuery_Selectors.html" />
+        <option value="$PROJECT_DIR$/03_JQuery_Events/03_JQuery_Events.html" />
+        <option value="$PROJECT_DIR$/05_JQuery_Examples/05_JQuery_Examples.html" />
+        <option value="$PROJECT_DIR$/06_JQuery_Forms_Manual/06_JQuery_Forms_Manual.html" />
+        <option value="$PROJECT_DIR$/07_JQuery_Forms_Auto/07_JQuery_Forms_Auto.html" />
+        <option value="$PROJECT_DIR$/08_JQuery_Bootstrap/08_JQuery_Bootstrap.html" />
+        <option value="$PROJECT_DIR$/09_JQuery_Magnify_Plugin/09_JQuery_Magnify_Plugin.html" />
+        <option value="$PROJECT_DIR$/10_JQuery_Count_To_Plugin/10_JQuery_Count_To_Plugin.html" />
+        <option value="$PROJECT_DIR$/11_JQuery_Calculator_App/11_JQuery_Calculator.html" />
+        <option value="$PROJECT_DIR$/14_JQuery_AJAX/14_JQuery.html" />
+        <option value="$PROJECT_DIR$/15_JQuery_AJAX_Cards/15_JQuery.html" />
+        <option value="$PROJECT_DIR$/16_JQuery_guage_plugin/16_JQuery_Gauge.html" />
+        <option value="$PROJECT_DIR$/17_Employee_Registration/17_Employee_Rgistration.html" />
+        <option value="$PROJECT_DIR$/18_JQuery_Validator/18_JQuery_Bootstrap.html" />
+        <option value="$PROJECT_DIR$/19_JQuery_Select_box/19_JQuery_Select.html" />
+        <option value="$PROJECT_DIR$/jquery/jquery-3.4.1.js" />
+        <option value="$PROJECT_DIR$/03_JQuery_Events/03_app.js" />
+        <option value="$PROJECT_DIR$/04_JQuery_Effects/04_JQuery_Effects.html" />
+        <option value="$PROJECT_DIR$/11_JQuery_Calculator_App/index.html" />
+        <option value="$PROJECT_DIR$/12_JQuery_Typing_Tester_App/12_script.js" />
+        <option value="$PROJECT_DIR$/12_JQuery_Typing_Tester_App/12_JQuery_Typing_Tester.html" />
+        <option value="$PROJECT_DIR$/19_JQuery_Select_box/19_app.js" />
+        <option value="$PROJECT_DIR$/18_JQuery_Validator/18_app.js" />
+        <option value="$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/21_app.js" />
+        <option value="$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/21_JQuery_Magnify_Plugin.html" />
+        <option value="$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/21_app.js" />
+        <option value="$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/21_JQuery_Magnify_Plugin.html" />
+        <option value="$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_style.css" />
+        <option value="$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/css/main.css" />
+        <option value="$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_JQuery_Magnify_Plugin.html" />
+        <option value="$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/20_app.js" />
+        <option value="$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_app.js" />
+        <option value="F:/MOCK_DATA.json" />
+        <option value="$PROJECT_DIR$/24_AJAX_Basics/21_styles.css" />
+        <option value="$PROJECT_DIR$/24_AJAX_Basics/21_app.js" />
+        <option value="$PROJECT_DIR$/26_AJAX_Random_Cards/23_app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="width" value="739" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JQuery_Complete_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQuery_Complete_Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQuery_Complete_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQuery_Complete_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="01_JQuery_Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQuery_Complete_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQuery_Complete_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="26_AJAX_Random_Cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java Script/JavaScript_Complete_Files" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\UI_development\JQuery\JQuery_Complete_Files\23_JQuery_Magnify_Plugin_new" />
+      <recent name="E:\UI_development\JQuery\JQuery_Complete_Files" />
+      <recent name="E:\UI_development\JQuery\JQuery_Complete_Files\22_JQuery_Magnify_Plugin_new" />
+      <recent name="E:\UI_development\JQuery\JQuery_Complete_Files\21_JQuery_Magnify_Plugin_new\plugin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee9757e-1b47-4fc5-a091-8d6c19ffe8a3" name="Default" comment="" />
+      <created>1554166933550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554166933550</updated>
+      <workItem from="1554166935012" duration="277000" />
+      <workItem from="1557034534099" duration="1357000" />
+      <workItem from="1557113535987" duration="4848000" />
+      <workItem from="1557160729978" duration="5750000" />
+      <workItem from="1557210816331" duration="6593000" />
+      <workItem from="1557250411042" duration="3454000" />
+      <workItem from="1557294396261" duration="3733000" />
+      <workItem from="1557319142818" duration="1218000" />
+      <workItem from="1557320640466" duration="1463000" />
+      <workItem from="1557329756241" duration="1650000" />
+      <workItem from="1557416484113" duration="2796000" />
+      <workItem from="1557458481875" duration="8392000" />
+      <workItem from="1557492358125" duration="34000" />
+      <workItem from="1557510483161" duration="4070000" />
+      <workItem from="1557546553569" duration="3223000" />
+      <workItem from="1557767896222" duration="444000" />
+      <workItem from="1557768417314" duration="15000" />
+      <workItem from="1557768482218" duration="5153000" />
+      <workItem from="1557817930369" duration="8459000" />
+      <workItem from="1557851015045" duration="8676000" />
+      <workItem from="1557895547622" duration="2588000" />
+      <workItem from="1557900285499" duration="1411000" />
+      <workItem from="1557944621773" duration="603000" />
+      <workItem from="1558117210570" duration="50000" />
+      <workItem from="1558175099010" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/11_JQuery_Calculator_App/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_JQuery_Calculator_App/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_JQuery_Typing_Tester_App/12_JQuery_Typing_Tester.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_JQuery_Typing_Tester_App/12_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_JQuery_Select_box/19_styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_JQuery_Select_box/19_JQuery_Select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_JQuery_Select_box/19_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_JQuery_Magnify_Plugin/09_JQuery_Magnify_Plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_JQuery_Magnify_Plugin/09_app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JQuery_Count_To_Plugin/10_app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JQuery_Count_To_Plugin/10_JQuery_Count_To_Plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JQuery_Count_To_Plugin/jquery.countTo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_Employee_Registration/17_Employee_Rgistration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/UI apps/JQuery validator/dist/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_JQuery_Validator/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/my web pages/HTML/JQuery_Starter_Files/18_JQuery_Validator/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_JQuery_Validator/18_styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/UI apps/JQuery validator/demo/bootstrap/index-bs4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_JQuery_Validator/18_JQuery_Bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_JQuery_Validator/18_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="91" column="16" lean-forward="true" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Materialize_CSS/materialize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/plugin/zoomsl.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/plugin/zoomsl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/21_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/plugin/zoomsl.js" />
+    <entry file="file://$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/src/js/jquery.pan.js" />
+    <entry file="file://$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_style.css" />
+    <entry file="file://$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/20_styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/js/lc_lightbox.lite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61856">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/css/lc_lightbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5190">
+          <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/20_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_JQuery_Zoom_Plugin_New/20_JQuery_Zoom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/22_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_JQuery_Magnify_Plugin_new/22_JQuery_Magnify_Plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_JQuery_Magnify_Plugin_new/21_JQuery_Magnify_Plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/zoom-image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_JQuery_Magnify_Plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="33" column="10" selection-start-line="33" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_JQuery_Magnify_Plugin_new/23_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/MOCK_DATA.json" />
+    <entry file="file://$PROJECT_DIR$/24_AJAX_Basics/21_AJAX_Basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_AJAX_Basics/21_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_AJAX_Basics/21_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_AJAX_Card/22_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_AJAX_Card/22_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_AJAX_Card/22_AJAX_Card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_AJAX_Random_Cards/23_AJAX_Card.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_AJAX_Random_Cards/23_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JQuery_Basics/01_styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JQuery_Basics/01_JQuery_Basics.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JQuery_Basics/01_app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

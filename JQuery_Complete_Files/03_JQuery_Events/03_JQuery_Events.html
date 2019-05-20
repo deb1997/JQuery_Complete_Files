@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="../bootstrap/css/font-awesome-5.8.1.css">
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="../bootstrap/css/mdb.css">
+    <link rel="stylesheet" href="03_styles.css">
+    <title>JQuery Events</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">JQuery Events</a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="container mt-5">
+    <!--########################START HERE#########################-->
+
+    <!-- Click Event -->
+    <h3>Click Event</h3>
+    <button class="btn btn-success" id="btn-1">Register</button>
+
+    <!-- Dbl Click -->
+    <h3>Dbl Click</h3>
+    <button class="btn btn-danger" id="btn-2">Login</button>
+
+    <!-- Toggle Effect -->
+    <h3>Toggle Effect</h3>
+    <button class="btn btn-teal" id="btn-3">Sign Up</button>
+
+    <!-- Change Event -->
+    <h3>Change Event</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <form>
+                                    <div class="form-group">
+                                        <select class="form-control" id="select-box">
+                                            <option value="">Select a Technology</option>
+                                            <option value="HTML">HTML</option>
+                                            <option value="CSS">CSS</option>
+                                            <option value="JavaScript">JavaScript</option>
+                                            <option value="JQuery">JQuery</option>
+                                            <option value="Angular JS">Angular JS</option>
+                                        </select>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-md-6">
+                                <h3 class="text-danger font-weight-bold" id="option"></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <!-- KeyUp Event -->
+    <h3>Keyup Event</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <form>
+                            <div class="form-group">
+                                <input id="text-box" type="text" class="form-control" placeholder="User Name">
+                            </div>
+                            <h3 id="text-entered" class="text-primary font-weight-bold"></h3>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div style="margin-top:500px;"></div>
+
+
+<!-- BODY ENDS -->
+<script src="../jquery/jquery-3.4.1.js"></script>
+<script src="../bootstrap/js/popper.min.js"></script>
+<script src="../bootstrap/js/bootstrap.min.js"></script>
+<script src="../bootstrap/js/mdb.min.js"></script>
+<script src="03_app.js"></script>
+</body>
+</html>
+
